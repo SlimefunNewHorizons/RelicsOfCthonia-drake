@@ -92,12 +92,12 @@ Licensed under **GPL-3.0-only**.
 
 </div>
 
-## ⚖️ Upstream Attribution & License
+---
 
-- **Original Project / Upstream**: Slimefun Addon Jam 2022 entry by FN_FAL113.
-- **Port & Maintenance**: DrakesCraft Labs team (Compatibility for Paper / Purpur 1.21.11 & Java 21).
-- **License**: GNU General Public License v3.0 (GPL-3.0-only).
-- **Source Code**: [GitHub Repository](https://github.com/DrakesCraft-Labs/RelicsOfCthonia-drake)
-- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/RelicsOfCthonia-drake/issues) | [Discord](https://discord.gg/rv3vtXZTk7)
+## 📄 License & Upstream Attribution
 
-*This project is an open-source derivative work maintained by DrakesCraft Labs under the terms of its original license.*
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+
+- **Original Project:** Created by the upstream authors and the open-source community.
+- **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
+- **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
