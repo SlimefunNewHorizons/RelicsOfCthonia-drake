@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/RelicsOfCthonia-drake/main/banner.svg" alt="RelicsOfCthonia-drake Banner" width="920" />
+  <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/RelicsOfCthonia-drake/main/banner.svg" alt="RelicsOfCthonia-drake Banner" width="920" />
 
 # 🔥 RelicsOfCthonia-Drake
 
 **Expansión de reliquias ancestrales del Nether, altares ctónicos y artefactos de poder para Slimefun4.**
 
 <p>
-  <a href="https://github.com/DrakesCraft-Labs/RelicsOfCthonia-drake"><img src="https://img.shields.io/badge/GitHub-RelicsOfCthonia--Drake-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/SlimefunNewHorizons/RelicsOfCthonia-drake"><img src="https://img.shields.io/badge/GitHub-RelicsOfCthonia--Drake-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Slimefun4-Drake_Edition-22C55E?style=for-the-badge&logo=curseforge&logoColor=white" alt="Slimefun4"/>
   <img src="https://img.shields.io/badge/Paper-1.21.11-38BDF8?style=for-the-badge&logo=minecraft&logoColor=white" alt="Paper 1.21.11"/>
   <img src="https://img.shields.io/badge/Java-21-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
@@ -61,7 +61,7 @@ Las reliquias se obtienen mediante excavación abisal, rituales y cofres de fort
 |---|---|
 | **Servidor** | Paper / Purpur / Folia **1.21.11** |
 | **Java** | **Java 21** LTS |
-| **Core Requerido** | [Slimefun4-Drake](https://github.com/DrakesCraft-Labs/Slimefun4-Drake) |
+| **Core Requerido** | [Slimefun4-Drake](https://github.com/SlimefunNewHorizons/Slimefun4-Drake) |
 | **Arquitectura** | 100% Server-side |
 
 ---
@@ -76,7 +76,7 @@ Las reliquias se obtienen mediante excavación abisal, rituales y cofres de fort
 
 <div align="center">
 
-**Desarrollado y Mantenido por [DrakesCraft Labs](https://github.com/DrakesCraft-Labs)**  
+**Desarrollado y Mantenido por [DrakesCraft Labs](https://github.com/SlimefunNewHorizons)**  
 *Basado en la entrada original del Slimefun Addon Jam 2022 por FN_FAL113.*  
 Licencia **GPL-3.0-only**.
 
